@@ -8,4 +8,5 @@ Ce dépôt contient les croquis présents dans le dixième numéro de [Hackable]
 * `NFCReadTag` : croquis pour la lecture de tags NFC
 * `timerdemo` : croquis de démonstration des timers
 * `timerdemoNONATOM` : croquis de démonstration des opérations atomiques
+* `cadransOK.svg` : l'image vectorielle du fond de cadran pour le projet d'horloge à ampèremètre
 
